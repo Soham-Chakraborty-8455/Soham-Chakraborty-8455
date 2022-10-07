@@ -1,7 +1,8 @@
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Soham Chakraborty!!!</h1>
+	 width="45" /> I'm Soham Chakraborty!!!</h1>
+<p align="center"><img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1"></p>
 
 ## 👨🏻‍💼 About Myself:
 
