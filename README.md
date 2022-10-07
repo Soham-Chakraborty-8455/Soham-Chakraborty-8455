@@ -1,8 +1,10 @@
+<p align="center"><img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1"></p>
+
 <h2 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
 	 width="35" /> I'm Soham Chakraborty!!!</h2>
-<p align="center"><img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1"></p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soham-Chakraborty-8455&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
 
