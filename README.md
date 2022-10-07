@@ -40,4 +40,5 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Chakraborty-8455&theme=dark" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Chakraborty-8455&show_icons=true&locale=en&layout=compact&theme=dark" alt="Soham-Chakraborty-8455" />
 </p>
-<p></p>
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Soham-Chakraborty-8455&&theme=xcode)](https://github.com/Soham-Chakraborty-8455)
