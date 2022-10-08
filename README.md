@@ -5,8 +5,8 @@
          height="35"
 	 width="35" /> I'm Soham Chakraborty!!!</h2>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soham-Chakraborty-8455&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
+
 
 ### About Myself:
 
@@ -18,7 +18,7 @@
 - Reach me out at schakraborty8455@gmail.com
 - **Fun fact:** I am a Football fan expecting remontada every game.
 
-
+<img align="right" width=300px height=200px alt="side_sticker" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
 
 ### Connect with Me:
 <p align="left">
