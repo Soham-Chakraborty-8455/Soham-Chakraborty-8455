@@ -22,8 +22,9 @@
 
 ### Connect with Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/soham-chakraborty-666840221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-chakraborty-666840221" height="25" width="25" /></a>
-<a href="https://leetcode.com/schakraborty8455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="schakraborty8455" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/soham-chakraborty-666840221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="soham-chakraborty-666840221" height="25" width="25" /></a>
+<a href="https://leetcode.com/schakraborty8455" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="schakraborty8455" height="25" width="25" /></a>
+<a href="https://auth.geeksforgeeks.org/user/schakraborty8455/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="schakraborty8455" height="25" width="25" /></a>
 </p>
 
 ### Tech Stack:
