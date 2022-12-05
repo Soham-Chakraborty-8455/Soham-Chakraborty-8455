@@ -58,4 +58,4 @@
 
 ### Activity Graph:
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Soham-Chakraborty-8455&&theme=xcode)](https://github.com/Soham-Chakraborty-8455)
+[![Soham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Soham-Chakraborty-8455&&theme=xcode)](https://github.com/Soham-Chakraborty-8455)
