@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1"></p>
-
 <h2 align="center"> Hola, <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" 
          alt="👋🏻"
          height="35"
