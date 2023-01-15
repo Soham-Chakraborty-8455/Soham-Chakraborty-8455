@@ -17,7 +17,7 @@
 - **Fun fact:** I am a Football fan expecting remontada every game.
 
 ### My Achievements and Recognizations:
-- Winner of Polygon Teack at TecHacks 3.0 by Chitkara University at Devfolio.
+- Winner of Polygon Track at TecHacks 3.0 by Chitkara University at Devfolio.
 - Top 10 Winner at MLH REVA HACKS </> 2022, a hackathon by Major League Hacking conducted at Devfolio.
 - Competitive Programming Co-Lead at Google Developers Student Club at IEM Kolkata.
 - Contributor @Hacktoberfest'22
