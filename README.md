@@ -1,8 +1,8 @@
 <h2 align="center"> Hola, <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" 
          alt="👋🏻"
          height="35"
-	 width="35" /> I'm Soham Chakraborty!!!</h2>
-
+	 width="35" /> I'm Soham Chakraborty!!!, Nice to meet you</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soham-Chakraborty-8455&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
 
 
