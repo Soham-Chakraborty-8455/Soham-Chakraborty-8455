@@ -13,7 +13,6 @@
 - I am a **Python Backend Developer** and I use Flask and Django to create backend of my apps
 - I am a Competitive Programming enthusiast working to improve my **Problem Solving** skills.
 - I’m currently learning **Web3.0** and **Blockchain**.
-- Reach me out at schakraborty8455@gmail.com
 - **Fun fact:** I am a Football fan expecting remontada every game.
 
 ### My Achievements and Recognizations:
@@ -27,11 +26,9 @@
 <img align="right" width=300px height=200px alt="side_sticker" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
 
 ### Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/soham-chakraborty-666840221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="soham-chakraborty-666840221" height="25" width="25" /></a>
-<a href="https://leetcode.com/schakraborty8455" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="schakraborty8455" height="25" width="25" /></a>
-<a href="https://auth.geeksforgeeks.org/user/schakraborty8455/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="schakraborty8455" height="25" width="25" /></a>
-</p>
+Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:schakraborty8455">here</b><br><br>
+<a href = "https://www.linkedin.com/in/soham-chakraborty-666840221/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
+<a href = "https://discordapp.com/users/Soham Chakraborty#7576"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
 
 ### Tech Stack:
 #### Programming Languages:
