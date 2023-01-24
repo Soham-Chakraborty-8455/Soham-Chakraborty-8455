@@ -38,29 +38,34 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <hr>
 
  
-### GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Soham-Chakraborty-8455&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-### Github Profile Summary Card:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Chakraborty-8455&theme=vue" />
-</p>
-
-### GitHub Stats:
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soham-Chakraborty-8455&show_icons=true&theme=dark" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Chakraborty-8455&theme=dark" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Chakraborty-8455&show_icons=true&locale=en&layout=compact&theme=dark" alt="Soham-Chakraborty-8455" />
-</p>
-
-### Activity Graph:
-
-<p align="center">
-<a href="https://github.com/Soham-Chakraborty-8455/github-readme-activity-graph#gh-light-mode-only">
+### Metrics
+<table>
+	<tr>
+		<td colspan = "2"><a href="https://github.com/Soham-Chakraborty-8455/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Soham-Chakraborty-8455&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/Soham-Chakraborty-8455/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Soham-Chakraborty-8455&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
+</a></td>
+	</tr>
+	<tr>
+		<td><p align="center"><img width=100% src="https://github-readme-stats.vercel.app/api?username=Soham-Chakraborty-8455&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></p></td>
+		<td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Chakraborty-8455&theme=nord"/></p></td>
+	</tr>
+	<tr>
+		<td colspan = "2"><p align="center"><img width=100% src="https://github-profile-trophy.vercel.app/?username=Soham-Chakraborty-8455&hide_border=true&count_private=true&column=8&theme=nord&no-frame=true"></p></td>
+	</tr>
+	<tr>
+		<td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Chakraborty-8455&show_icons=true&locale=en&layout=compact&theme=nord" alt="Soham-Chakraborty-8455" /></p></td>
+		<td><p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Chakraborty-8455&theme=vue" /></p></td>
+	</tr>
+</table>
+<hr>
+<a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
+<hr>
+
+### <p align="center">Show some ❤️ by starring 🌟 some of my Repos!!</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
