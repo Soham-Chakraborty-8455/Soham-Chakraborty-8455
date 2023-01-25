@@ -49,19 +49,19 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 </a></td>
 	</tr>
 	<tr>
-		<td><p align="center"><img width=100% src="https://github-readme-stats.vercel.app/api?username=Soham-Chakraborty-8455&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></p></td>
-		<td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Chakraborty-8455&theme=nord"/></p></td>
+		<td><p align="center"><img width=100% src="https://github-readme-stats.vercel.app/api?username=Soham-Chakraborty-8455&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"></p></td>
+		<td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Chakraborty-8455&theme=dark"/></p></td>
 	</tr>
 	<tr>
-		<td colspan = "2"><p align="center"><img width=100% src="https://github-profile-trophy.vercel.app/?username=Soham-Chakraborty-8455&hide_border=true&count_private=true&column=8&theme=nord&no-frame=true"></p></td>
+		<td colspan = "2"><p align="center"><img width=100% src="https://github-profile-trophy.vercel.app/?username=Soham-Chakraborty-8455&hide_border=true&count_private=true&column=8&theme=dark&no-frame=true"></p></td>
 	</tr>
 	<tr>
-		<td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Chakraborty-8455&show_icons=true&locale=en&layout=compact&theme=nord" alt="Soham-Chakraborty-8455" /></p></td>
+		<td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Chakraborty-8455&show_icons=true&locale=en&layout=compact&theme=dark" alt="Soham-Chakraborty-8455" /></p></td>
 		<td><p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Chakraborty-8455&theme=vue" /></p></td>
 	</tr>
 </table>
 <hr>
-<a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
+<a href = "https://holopin.io/@soham_8455"><img src = "https://holopin.me/soham_8455"></a>
 <hr>
 
 ### <p align="center">Show some ❤️ by starring 🌟 some of my Repos!!</p>
