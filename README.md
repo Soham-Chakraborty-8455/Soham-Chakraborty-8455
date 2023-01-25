@@ -5,6 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soham-Chakraborty-8455&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
 
+<img align="right" width=300px height=200px alt="side_sticker" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
 
 ### About Myself:
 
@@ -25,7 +26,6 @@
 - Keploy API Fellowship Cohort#1 Mentee
 <hr>
 
-<img align="right" width=300px height=200px alt="side_sticker" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
 
 ### Connect with Me:
 Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:schakraborty8455">here</b><br><br>
