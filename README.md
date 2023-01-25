@@ -34,7 +34,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <hr>
 
 ### Languages, Tools and Technologies
-<a href = "https://github.com/SarthakSKumar"><img src = "https://skillicons.dev/icons?i=c,cpp,py,flask,django,fastapi,flutter,dart,kotlin,js,firebase,solidity,mongodb,dynamodb,mysql,postgres,sqlite,git,github,androidstudio,vscode,gradle&theme=dark&perline=21" height = 90></a>
+<img src = "https://skillicons.dev/icons?i=c,cpp,py,flask,django,fastapi,express,flutter,dart,kotlin,js,firebase,solidity,nodejs,mongodb,dynamodb,mysql,postgres,sqlite,git,github,androidstudio,vscode,gradle&theme=dark&perline=21" height = 90>
 <hr>
 
  
