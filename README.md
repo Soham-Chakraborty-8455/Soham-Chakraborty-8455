@@ -31,6 +31,8 @@
 Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:schakraborty8455">here</b><br><br>
 <a href = "https://www.linkedin.com/in/soham-chakraborty-666840221/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
 <a href = "https://discordapp.com/users/Soham Chakraborty#7576"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
+
+Also, checkout my <a href = "https://soham-chakraborty-portfolio.web.app/">Portfolio Website</b><br>
 <hr>
 
 ### Languages, Tools and Technologies
