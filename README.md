@@ -64,8 +64,6 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <a href = "https://holopin.io/@soham_8455"><img src = "https://holopin.me/soham_8455"></a>
 <hr>
 
-### <p align="center">Show some ❤️ by starring 🌟 some of my Repos!!</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
