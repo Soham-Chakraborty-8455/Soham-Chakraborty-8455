@@ -11,7 +11,7 @@
 
 - I am a student pursuing **Bachelors of Technology** in **Computer Science Engineering**, batch of **2025**.
 - I am a **Flutter Developer** looking to expand my knowledge and gain experience in cross-platform application development.
-- I am a **Python Backend Developer** and I use Flask and Django to create backend of my apps
+- I am a **Backend Developer** and I use Flask, Django, Express and FastAPI to create backend of my apps
 - I am a Competitive Programming enthusiast working to improve my **Problem Solving** skills.
 - I’m currently learning **Web3.0** and **Blockchain**.
 - **Fun fact:** I am a Football fan expecting remontada every game.
