@@ -18,6 +18,7 @@
 <hr>
 
 ### My Achievements and Recognizations:
+- Winner of Appwrite track at Hack this Fall 3.0 by Major League Hacking at Devpost.
 - Winner of Polygon Track at TecHacks 3.0 by Chitkara University at Devfolio.
 - Top 10 Winner at MLH REVA HACKS </> 2022, a hackathon by Major League Hacking conducted at Devfolio.
 - Competitive Programming Co-Lead at Google Developers Student Club at IEM Kolkata.
