@@ -1,9 +1,10 @@
 <img align="center" alt="" src="./Me.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center"> Hola, I'm <a href = "https://www.linkedin.com/in/soham-chakraborty-666840221/">Soham Chakraborty</a>!!! Nice to meet you here <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" 
          alt="👋🏻"
          height="35"
 	 width="35" /></h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soham-Chakraborty-8455&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
 
 <img align="right" width=300px height=200px alt="side_sticker" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
@@ -24,8 +25,6 @@
 - Top 10 Winner at MLH REVA HACKS </> 2022, a hackathon by Major League Hacking conducted at Devfolio.
 - Competitive Programming Co-Lead at Google Developers Student Club at IEM Kolkata.
 - Contributor @Hacktoberfest'22
-- Winter of Blockchain 2022 Fellowship Mentee
-- Keploy API Fellowship Cohort#1 Mentee
 <hr>
 
 
@@ -33,6 +32,8 @@
 Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:schakraborty8455">here</b><br><br>
 <a href = "https://www.linkedin.com/in/soham-chakraborty-666840221/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
 <a href = "https://discordapp.com/users/Soham Chakraborty#7576"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
+<a href = "https://twitter.com/Soham_8455"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 38></a>
+<a href = "https://instagram.com/me_sohamchakraborty"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 
 Also, checkout my <a href = "https://soham-chakraborty-portfolio.web.app/">Portfolio Website</b><br>
 <hr>
