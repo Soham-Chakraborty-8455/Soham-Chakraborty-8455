@@ -1,3 +1,4 @@
+<img align="center" alt="" src="./Me.png">
 <h2 align="center"> Hola, I'm <a href = "https://www.linkedin.com/in/soham-chakraborty-666840221/">Soham Chakraborty</a>!!! Nice to meet you here <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" 
          alt="👋🏻"
          height="35"
