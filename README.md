@@ -35,7 +35,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <a href = "https://twitter.com/Soham_8455"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 38></a>
 <a href = "https://instagram.com/me_sohamchakraborty"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 
-Also, checkout my <a href = "https://soham-chakraborty-portfolio.web.app/">Portfolio Website</b><br>
+Also, checkout my <a href = "https://soham-chakraborty.web.app/">Portfolio Website</b><br>
 <hr>
 
 ### Languages, Tools and Technologies
