@@ -12,14 +12,13 @@
 ### About Myself:
 
 - I am a student pursuing **Bachelors of Technology** in **Computer Science Engineering**, batch of **2025**.
-- I am a **Flutter Developer** looking to expand my knowledge and gain experience in cross-platform application development.
-- I am a **Backend Developer** and I use Flask, Django, Express and FastAPI to create backend of my apps
-- I am a Competitive Programming enthusiast working to improve my **Problem Solving** skills.
-- I’m currently learning **Web3.0** and **Blockchain**.
-- **Fun fact:** I am a Football fan expecting remontada every game.
+- I have over 10 months of previous internship experience working as a backend developer. There I have contributed by developing web applications using **Node.js**, **Express.js**, and **MongoDB** and deploying to **AWS** and **Nginx servers**.
+- I am a Programming enthusiast working to improve my **Problem Solving** skills.
+- I have won **3 national level hackathons**, two of which are MLH Hackathons and one Devfolio Hackathon. There I led my team to develop innovative solutions within tight deadlines. 
 <hr>
 
 ### My Achievements and Recognizations:
+- Flipkart GRID 5.0 AIR 24
 - Winner of Appwrite track at Hack this Fall 3.0 by Major League Hacking at Devpost.
 - Winner of Polygon Track at TecHacks 3.0 by Chitkara University at Devfolio.
 - Top 10 Winner at MLH REVA HACKS </> 2022, a hackathon by Major League Hacking conducted at Devfolio.
@@ -39,7 +38,7 @@ Also, checkout my <a href = "https://soham-chakraborty.web.app/">Portfolio Websi
 <hr>
 
 ### Languages, Tools and Technologies
-<img src = "https://skillicons.dev/icons?i=c,cpp,py,flask,django,fastapi,express,flutter,dart,kotlin,js,firebase,solidity,nodejs,mongodb,dynamodb,mysql,postgres,sqlite,git,github,androidstudio,vscode,gradle&theme=dark&perline=21" height = 90>
+<img src = "https://skillicons.dev/icons?i=c,cpp,py,nodejs,express,flask,nginx,linux,aws,flutter,js,firebase,solidity,mongodb,mysql,postgres,sqlite,git,github,vscode&theme=dark&perline=21" height = 90>
 <hr>
 
  
