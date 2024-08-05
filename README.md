@@ -12,8 +12,8 @@
 ### About Myself:
 
 - I am a student pursuing **Bachelors of Technology** in **Computer Science Engineering**, batch of **2025**.
-- I have over 10 months of previous internship experience working as a backend developer. There I have contributed by developing web applications using **Node.js**, **Express.js**, and **MongoDB** and deploying to **AWS** and **Nginx servers**.
-- I am a Programming enthusiast working to improve my **Problem Solving** skills.
+- I have over 1.5 years of previous internship experience working as a backend developer. There I have contributed by developing web applications using **Node.js**, **Express.js**, **Nest.js** and **MongoDB**, **Postgres** and deploying to **AWS** and **Nginx servers**.
+- I am a Programming enthusiast working to improve my **Problem Solving** skills. I have Leetcode highest contest ratings of **1659** with over **500+** problems solved across all platforms.
 - I have won **3 national level hackathons**, two of which are MLH Hackathons and one Devfolio Hackathon. There I led my team to develop innovative solutions within tight deadlines. 
 <hr>
 
@@ -38,7 +38,7 @@ Also, checkout my <a href = "https://soham-chakraborty.web.app/">Portfolio Websi
 <hr>
 
 ### Languages, Tools and Technologies
-<img src = "https://skillicons.dev/icons?i=c,cpp,py,nodejs,express,flask,nginx,linux,aws,flutter,js,firebase,solidity,mongodb,mysql,postgres,sqlite,git,github,vscode&theme=dark&perline=21" height = 90>
+<img src = "https://skillicons.dev/icons?i=c,cpp,py,nodejs,express,nest,flask,docker,nginx,linux,aws,flutter,js,firebase,solidity,mongodb,mysql,postgres,sqlite,git,github,vscode&theme=dark&perline=21" height = 90>
 <hr>
 
  
