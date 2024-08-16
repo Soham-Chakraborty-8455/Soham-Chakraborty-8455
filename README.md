@@ -29,9 +29,10 @@
 
 ### Connect with Me:
 Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:schakraborty8455">here</b><br><br>
-<a href = "https://www.linkedin.com/in/soham-chakraborty-666840221/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
+<a href="https://linkedin.com/in/sohamchakraborty-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohamchakraborty-tech" height="30" width="40" /></a>
+<a href="https://instagram.com/me_sohamchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_sohamchakraborty" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/schakraborty8455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="schakraborty8455" height="30" width="40" /></a>
-<a href = "https://instagram.com/me_sohamchakraborty"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
+
 
 Also, checkout my <a href = "https://soham-chakraborty.web.app/">Portfolio Website</b><br>
 <hr>
