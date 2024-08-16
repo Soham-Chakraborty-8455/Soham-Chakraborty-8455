@@ -30,8 +30,7 @@
 ### Connect with Me:
 Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:schakraborty8455">here</b><br><br>
 <a href = "https://www.linkedin.com/in/soham-chakraborty-666840221/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
-<a href = "https://discordapp.com/users/Soham Chakraborty#7576"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
-<a href = "https://twitter.com/Soham_8455"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 38></a>
+<a href="https://www.leetcode.com/schakraborty8455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="schakraborty8455" height="30" width="40" /></a>
 <a href = "https://instagram.com/me_sohamchakraborty"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 
 Also, checkout my <a href = "https://soham-chakraborty.web.app/">Portfolio Website</b><br>
